@@ -1,0 +1,9 @@
+mode: debug
+port: :1010
+url: http://127.0.0.1:1010
+ma_check_count: 10
+database:
+  name: happy_mall
+  host: 127.0.0.1:3306
+  username: root
+  password: 961010
